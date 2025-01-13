@@ -1081,3 +1081,119 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/4600001000000000117/1.m3u8?chan
 http://121.19.134.222:808/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="地方频道",河北农民
 http://121.19.134.222:808/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北经济生活.png" group-title="地方频道",河北经济生活
+http://61.55.47.112:4022/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北经济生活.png" group-title="地方频道",河北经济生活
+http://101.31.193.145:4022/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北经济生活.png" group-title="地方频道",河北经济生活
+http://120.6.7.8:4022/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北经济生活.png" group-title="地方频道",河北经济生活
+http://110.250.150.37:8888/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北经济生活.png" group-title="地方频道",河北经济生活
+http://60.2.190.206:4000/rtp/239.253.92.171:6001
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视剧.png" group-title="地方频道",河北影视剧
+http://61.55.47.112:4022/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视剧.png" group-title="地方频道",河北影视剧
+http://101.31.193.145:4022/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视剧.png" group-title="地方频道",河北影视剧
+http://120.6.7.8:4022/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视剧.png" group-title="地方频道",河北影视剧
+http://110.250.150.37:8888/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北影视剧.png" group-title="地方频道",河北影视剧
+http://60.2.190.206:4000/rtp/239.253.92.173:6003
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="地方频道",河北少儿科教
+http://61.55.47.112:4022/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="地方频道",河北少儿科教
+http://101.31.193.145:4022/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="地方频道",河北少儿科教
+http://120.6.7.8:4022/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="地方频道",河北少儿科教
+http://110.250.150.37:8888/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="地方频道",河北少儿科教
+http://60.2.190.206:4000/rtp/239.253.92.174:6004
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口新闻综合.png" group-title="地方频道",张家口新闻综合
+http://61.55.47.112:4022/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口新闻综合.png" group-title="地方频道",张家口新闻综合
+http://101.31.193.145:4022/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口新闻综合.png" group-title="地方频道",张家口新闻综合
+http://120.6.7.8:4022/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口新闻综合.png" group-title="地方频道",张家口新闻综合
+http://110.250.150.37:8888/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口新闻综合.png" group-title="地方频道",张家口新闻综合
+http://60.2.190.206:4000/rtp/239.253.92.225:8115
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口公共.png" group-title="地方频道",张家口公共
+http://61.55.47.112:4022/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口公共.png" group-title="地方频道",张家口公共
+http://101.31.193.145:4022/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口公共.png" group-title="地方频道",张家口公共
+http://120.6.7.8:4022/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口公共.png" group-title="地方频道",张家口公共
+http://110.250.150.37:8888/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家口公共.png" group-title="地方频道",张家口公共
+http://60.2.190.206:4000/rtp/239.253.92.226:8116
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台综合.png" group-title="地方频道",邢台综合
+http://61.55.47.112:4022/rtp/239.253.93.8:6161
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台综合.png" group-title="地方频道",邢台综合
+http://101.31.193.145:4022/rtp/239.253.93.8:6161
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台综合.png" group-title="地方频道",邢台综合
+http://120.6.7.8:4022/rtp/239.253.93.8:6161
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台综合.png" group-title="地方频道",邢台综合
+http://110.250.150.37:8888/rtp/239.253.93.8:6161
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台综合.png" group-title="地方频道",邢台综合
+http://60.2.190.206:4000/rtp/239.253.93.8:6161
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城市生活.png" group-title="地方频道",邢台城市生活
+http://61.55.47.112:4022/rtp/239.253.93.10:6163
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城市生活.png" group-title="地方频道",邢台城市生活
+http://101.31.193.145:4022/rtp/239.253.93.10:6163
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城市生活.png" group-title="地方频道",邢台城市生活
+http://120.6.7.8:4022/rtp/239.253.93.10:6163
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城市生活.png" group-title="地方频道",邢台城市生活
+http://110.250.150.37:8888/rtp/239.253.93.10:6163
+#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城市生活.png" group-title="地方频道",邢台城市生活
+http://60.2.190.206:4000/rtp/239.253.93.10:6163
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康保电视.png" group-title="地方频道",康保电视
+http://61.55.47.112:4022/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康保电视.png" group-title="地方频道",康保电视
+http://101.31.193.145:4022/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康保电视.png" group-title="地方频道",康保电视
+http://120.6.7.8:4022/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康保电视.png" group-title="地方频道",康保电视
+http://110.250.150.37:8888/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-name="康保电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康保电视.png" group-title="地方频道",康保电视
+http://60.2.190.206:4000/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柏乡电视.png" group-title="地方频道",柏乡电视
+http://61.55.47.112:4022/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柏乡电视.png" group-title="地方频道",柏乡电视
+http://101.31.193.145:4022/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柏乡电视.png" group-title="地方频道",柏乡电视
+http://120.6.7.8:4022/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柏乡电视.png" group-title="地方频道",柏乡电视
+http://110.250.150.37:8888/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="柏乡电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/柏乡电视.png" group-title="地方频道",柏乡电视
+http://60.2.190.206:4000/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://114.240.224.31:3000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://182.149.98.239:55555/rtp/239.93.0.193:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://111.196.129.152:20000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://123.113.187.204:8000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://123.113.237.161:8888/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://114.253.57.101:10000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://111.196.135.75:8686/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://114.243.110.0:4000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://114.252.236.205:8000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
+http://171.213.133.96:19999/rtp/239.93.0.193:9000
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="动画频道",卡酷动画
+http://182.149.98.239:55555/rtp/239.93.0.208:5140
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="动画频道",卡酷动画
+http://171.213.133.96:19999/rtp/239.93.0.208:5140
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="动画频道",卡酷动画
+http://183.66.15.138:4070/rtp/235.254.198.49:1472
