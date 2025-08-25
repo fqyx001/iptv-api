@@ -1,21 +1,15 @@
 🕘️更新时间,#genre#
-2025-08-23 14:16:53,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-08-25 14:20:15,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://182.150.23.74:808/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-7,http://101.66.199.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
-CCTV-14,http://218.89.240.144:59901/tsfile/live/0014_1.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 天津卫视,http://nas.hssvm.com:8888/udp/225.1.1.111:5002
-天津卫视,http://125.42.151.98:9901/tsfile/live/0130_1.m3u8
-天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
@@ -36,7 +30,6 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 湖南卫视,http://nas.hssvm.com:8888/udp/225.1.1.114:5002
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://113.25.252.226:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://nas.hssvm.com:8888/udp/225.1.1.116:5002
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -50,8 +43,9 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
+凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
+凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
