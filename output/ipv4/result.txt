@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-31 14:20:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-01 14:18:09,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 
 卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -33,7 +32,6 @@ CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
 地方频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
