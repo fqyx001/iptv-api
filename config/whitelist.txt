@@ -6,8 +6,9 @@
 
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
-康保电视,
-柏乡电视,
+康保综合,http://60.6.116.109:4022/rtp/239.253.93.165:6333
+康保综合,http://www.bg3nit.top:9999/rtp/239.253.93.165:6333
+柏乡综合,http://60.6.116.109:4022/rtp/239.253.93.171:6339
 直播中国,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 
 
