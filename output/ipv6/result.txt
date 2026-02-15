@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-13 15:49:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-15 15:37:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -605,6 +605,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 
 直播中国,#genre#
 古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
