@@ -7,8 +7,9 @@
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
 康保综合,http://www.bg3nit.top:9999/rtp/239.253.93.165:6333
-康保综合,http://60.6.116.109:4022/rtp/239.253.93.165:6333
-康保综合,http://60.3.123.88:7000/rtp/239.253.93.165:6333
+康保综合,http://liuyaxing.ditang.xyz:8809/rtp/239.253.93.165:6333
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 柏乡综合,http://60.6.116.109:4022/rtp/239.253.93.171:6339
 
 古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
