@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/fqyx001/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-08-05 17:34:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-08-07 16:12:19
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1039,6 +1039,8 @@ https://stream1.freetv.fun/yan-bian-wei-shi-16.m3u8
 https://stream1.freetv.fun/yan-bian-wei-shi-15.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="延边卫视.png" group-title="卫视频道",延边卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="延边卫视.png" group-title="卫视频道",延边卫视
+https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="卫视频道",三沙卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="卫视频道",三沙卫视
