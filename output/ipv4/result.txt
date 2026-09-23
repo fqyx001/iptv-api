@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-21 21:34:52,http://107.150.60.122/live/cctv2hd.m3u8
+2026-09-23 20:33:05,http://107.150.60.122/live/cctv2hd.m3u8
 
 央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
@@ -23,8 +23,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
+辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
@@ -42,12 +42,12 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 海南卫视,http://112.234.22.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
+四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
 贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
-贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
+贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
@@ -56,15 +56,15 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
-三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 
 地方频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
-邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 
 动画频道,#genre#
 
