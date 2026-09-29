@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-09-27 20:41:40,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+2026-09-29 21:43:14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 
 央视频道,#genre#
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
@@ -22,7 +22,6 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://drive.mxmy.net:8888/udp/239.3.1.135:8028
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
@@ -38,8 +37,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
-贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
+贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
@@ -49,8 +48,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
-邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 
 动画频道,#genre#
 
