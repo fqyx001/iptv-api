@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-09 22:05:52,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+2026-10-11 21:44:52,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 
 央视频道,#genre#
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
@@ -15,23 +15,22 @@ CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
+贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
-贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-三沙卫视,http://107.150.60.122/live/ssws.m3u8
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+三沙卫视,http://107.150.60.122/live/ssws.m3u8
 
 地方频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
-邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 
 动画频道,#genre#
 
