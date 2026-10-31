@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-29 21:54:52,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+2026-10-31 21:16:20,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 
 央视频道,#genre#
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
