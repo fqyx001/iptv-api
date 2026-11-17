@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-15 22:29:48,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+2026-11-18 00:39:31,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 
 央视频道,#genre#
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
@@ -21,8 +21,8 @@ CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 地方频道,#genre#
 张家口新闻综合,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
-邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 
 动画频道,#genre#
 

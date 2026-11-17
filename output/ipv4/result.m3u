@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/fqyx001/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-11-15 22:29:48
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-11-18 00:39:31
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视频道",CCTV-2
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
@@ -28,9 +28,9 @@ http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="张家口公共.png" group-title="地方频道",张家口公共
 http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
 #EXTINF:-1 tvg-name="邢台综合" tvg-logo="邢台综合.png" group-title="地方频道",邢台综合
-http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邢台综合" tvg-logo="邢台综合.png" group-title="地方频道",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邢台综合" tvg-logo="邢台综合.png" group-title="地方频道",邢台综合
+http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="古北水镇" tvg-logo="古北水镇.png" group-title="直播中国",古北水镇
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1 tvg-name="秦皇岛金梦海湾" tvg-logo="秦皇岛金梦海湾.png" group-title="直播中国",秦皇岛金梦海湾
